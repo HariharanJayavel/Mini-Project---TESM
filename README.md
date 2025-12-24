@@ -2,6 +2,9 @@
 
 ## MINI PROJECT:
 
+## NAME : Hariharan J
+## REG N0 : 212223240047
+## DEPT : B.tech - Artificial Intelligence & Machine Learning
 ## INTRODUCTION:
  This is the app of student - educational based hub, which we are completeled the app frontend completely.
  
@@ -14,15 +17,11 @@
 > Core business logic and internal mechanisms are intentionally not included.
 
 ---
-## Author
+## Collegues and team members:
 Avinash . T
 B.Tech – Artificial Intelligence & Data Science
-
-## Collegues and team members:
 Kavin Ajai T
 B.E - CSE(CS)
-Hariharan J
-B.tech - Artificial Intelligence & Machine Learning
 
 ## Project Scope
 - Frontend-only implementation  
